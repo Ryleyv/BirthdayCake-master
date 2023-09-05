@@ -8,10 +8,11 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="241dp"
+        android:layout_width="match_parent"
         android:layout_height="81dp"
         android:includeFontPadding="false"
         android:text="happy birthday"
+        android:textColor="#FF9800"
         android:textSize="50sp" />
 
     <LinearLayout
